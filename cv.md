@@ -7,6 +7,7 @@
 >telegram: @Makondo78
 >
 >discord: makondo#2835
+
 ### About me
 I am 42. At the age of 41, I started studying the layout of websites in my free time. I have completed several commercial projects on a freelance basis and realized that I need to systematize my knowledge and fill in the gaps in order to become a qualified and in-demand specialist. To do this, I signed up for a JavaScript/Front-end course at RS School.
 ### Skills
