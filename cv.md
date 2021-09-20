@@ -1,6 +1,6 @@
-![my foto](my_foto.png)
+![my foto](my_foto_small.png)
 # Anton Fedorov - ***junior Front-End Developer*** 
-> tohafedor@gmail.com | [LinkedIn](https://www.linkedin.com/in/antonfedorovsrt) | Saratov, Russia
+tohafedor@gmail.com | [LinkedIn](https://www.linkedin.com/in/antonfedorovsrt) | Saratov, Russia
 
 >+7 960 346 83 05
 >
@@ -10,6 +10,7 @@
 
 ### About me
 I am 42. At the age of 41, I started studying the layout of websites in my free time. I have completed several commercial projects on a freelance basis and realized that I need to systematize my knowledge and fill in the gaps in order to become a qualified and in-demand specialist. To do this, I signed up for a JavaScript/Front-end course at RS School.
+https://youtu.be/QZDsdGhlMo0 - self-introduction
 ### Skills
 * HTML5
 * CSS3 (SASS/SCSS)
@@ -18,6 +19,8 @@ I am 42. At the age of 41, I started studying the layout of websites in my free 
 * BEM
 * Gulp
 * Git
+* Figma
+* Photoshop
 * English - A1
 ### Code
 There is my solution kata from CodeWars.
@@ -35,9 +38,10 @@ function yourFutureCareer() {
 ```
 ### Projects
 Here are the projects that I have completed:
-* https://github.com/mak-on-do/tips_me
-* https://github.com/mak-on-do/sanitary-engineering
-* https://github.com/mak-on-do/Quantum-Toys
+* https://github.com/mak-on-do/go_surf - training project, used Git, Gulp, SCSS
+* https://github.com/mak-on-do/tips_me - commercial project, used Git, Gulp, SCSS
+* https://github.com/mak-on-do/sanitary-engineering - commercial project, used Git, Gulp, SCSS
+* https://github.com/mak-on-do/Quantum-Toys - commercial project, used Git, Gulp, SCSS
 ### Education
 | Period of study | educational institution / courses |
 | --------------- | --------------------------------- |
