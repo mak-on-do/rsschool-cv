@@ -29,14 +29,14 @@ I am 42. At the age of 41, I started studying the layout of websites in my free 
 ---
 There is my solution kata from CodeWars.
 ```
-**function** yourFutureCareer() {
-  **let** career = Math.random();
-    **if** (career <= 0.32) {
-      **return** "FrontEnd Developer";
-     } **else if** (career <= 0.65) {
-      **return** "BackEnd Developer";
-    } **else** {
-      **return** 'Full-Stack Developer';
+function yourFutureCareer() {
+  let career = Math.random();
+    if (career <= 0.32) {
+      return "FrontEnd Developer";
+     } else if (career <= 0.65) {
+      return "BackEnd Developer";
+    } else {
+      return 'Full-Stack Developer';
     }
 }
 ```
@@ -51,8 +51,8 @@ Here are the projects that I have completed:
 
 ### Education
 ---
-| Period of study | educational institution / courses |
-| ---- | ----- | 
-| 1997-2001 | Modern Humanitarian Institute / Jurisprudence |
-| 2020 | Saratov State Technical University named after Yuri Gagarin / Additional professional training program "Technologies of website development" |
-| 01/2020-03/2020 | Vadim Prokopchuk / Website layout course "From 0 to 1" |
+| Period of study | educational institution / courses                                                                                                            |
+| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1997-2001       | Modern Humanitarian Institute / Jurisprudence                                                                                                |
+| 2020            | Saratov State Technical University named after Yuri Gagarin / Additional professional training program "Technologies of website development" |
+| 01/2020-03/2020 | Vadim Prokopchuk / Website layout course "From 0 to 1"                                                                                       |
