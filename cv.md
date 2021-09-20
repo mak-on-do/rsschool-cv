@@ -51,8 +51,8 @@ Here are the projects that I have completed:
 
 ### Education
 ---
-Period of study | educational institution / courses
---------------- | ---------------------------------
-1997-2001 | Modern Humanitarian Institute / Jurisprudence
-2020 | Saratov State Technical University named after Yuri Gagarin / Additional professional training program "Technologies of website development"
-01/2020-03/2020 | Vadim Prokopchuk / Website layout course "From 0 to 1"
+| Period of study | educational institution / courses |
+| --------------- | --------------------------------- |
+| 1997-2001 | Modern Humanitarian Institute / Jurisprudence |
+| 2020 | Saratov State Technical University named after Yuri Gagarin / Additional professional training program "Technologies of website development" |
+| 01/2020-03/2020 | Vadim Prokopchuk / Website layout course "From 0 to 1" |
