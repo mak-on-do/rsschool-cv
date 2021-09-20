@@ -54,14 +54,32 @@ Here are the projects that I have completed:
 :::row:::
    :::column span="":::
       **Period of study**
-      1997-2001
-      2020
-      01/2020-03/2020
    :::column-end:::
    :::column span="2":::
       **educational institution / courses**
+   :::column-end:::
+:::row-end:::
+:::row:::
+    :::column span="":::
+      1997-2001
+   :::column-end:::
+   :::column span="2":::
       Modern Humanitarian Institute / Jurisprudence
+   :::column-end:::
+:::row-end:::
+:::row:::
+   :::column span="":::
+      2020
+   :::column-end:::
+   :::column span="2":::
       Saratov State Technical University named after Yuri Gagarin / Additional professional training program "Technologies of website development"
+   :::column-end:::
+:::row-end:::
+:::row:::
+   :::column span="":::
+      01/2020-03/2020
+   :::column-end:::
+   :::column span="2":::
       Vadim Prokopchuk / Website layout course "From 0 to 1"
    :::column-end:::
 :::row-end:::
