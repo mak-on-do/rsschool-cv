@@ -24,6 +24,7 @@ https://youtu.be/QZDsdGhlMo0 - self-introduction video
 * Figma
 * Photoshop
 * English - A1
+
 ### Code
 ---
 There is my solution kata from CodeWars.
@@ -39,6 +40,7 @@ function yourFutureCareer() {
     }
 }
 ```
+
 ### Projects
 ---
 Here are the projects that I have completed:
@@ -46,6 +48,7 @@ Here are the projects that I have completed:
 * https://github.com/mak-on-do/tips_me - commercial project, used Git, Gulp, SCSS
 * https://github.com/mak-on-do/sanitary-engineering - commercial project, used Git, Gulp, SCSS
 * https://github.com/mak-on-do/Quantum-Toys - commercial project, used Git, Gulp, SCSS
+
 ### Education
 ---
 | Period of study | educational institution / courses |
